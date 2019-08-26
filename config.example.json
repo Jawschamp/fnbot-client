@@ -1,0 +1,10 @@
+{
+    "bot_account": {
+        "email": "<Enter bot email here>",
+        "password": "<Enter bot password here>",
+        "token_2fa": null
+    },
+    "server_url_base": "<Enter cosmetic server base url here>",
+    "preferred_language": "en",
+    "server_version": "v1.0"
+}

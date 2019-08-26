@@ -1,0 +1,22 @@
+{
+    "initiating" : "Vorbereiten...",
+    "initiating_fail" : "Vorbereitung des Launchers fehlgeschlagen. Sind die Epic Games Server vielleicht offline?",
+    "logging_in" : {
+        "2fa" : "Einloggen (mit 2-Faktor-Authentifizierung)...",
+        "no_2fa" : "Einloggen...",
+        "logged_in" : "Eingeloggt als {{username}} (ID: {{account_id}})."
+    },
+    "starting_fn" : "Starte Fortnite",
+    "prepare_br" : "Bereitet Battle Royale vor",
+    "bot_in_lobby" : "Der Bot ist nun in der Lobby und bereit.",
+    "server_status" : {
+        "server_off" : "Warnung: Der Item-Server ist offline.",
+        "server_on" : "Der Server ist nun wieder online."
+    },
+    "build_update" : "Eine neue Build ID liegt vor. Du musst den Bot erneut starten.",
+    "build_fetch_fail" : "Die Build ID konnte nicht abgefragt werden. Stelle sicher, dass der Item-Server läuft bevor der Bot startet.",
+
+    "information" : "Information",
+    "warning" : "Warnung",
+    "ready" : "Bereit"
+}

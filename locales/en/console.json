@@ -1,0 +1,22 @@
+{
+    "initiating" : "Initiating...",
+    "initiating_fail" : "Cannot initialize Epic Games Launcher. Maybe Epic Games servers are offline?",
+    "logging_in" : {
+        "2fa" : "Logging in (using 2FA)...",
+        "no_2fa" : "Logging in...",
+        "logged_in" : "Logged in as {{username}} (ID: {{account_id}})."
+    },
+    "starting_fn" : "Starting Fortnite",
+    "prepare_br" : "Preparing Battle Royale",
+    "bot_in_lobby" : "The bot is now in the lobby.",
+    "server_status" : {
+        "server_off" : "Warning: Cosmetic server is offline.",
+        "server_on" : "Server seems to be back online."
+    },
+    "build_update" : "The build id was just changed. You must restart the bot now.",
+    "build_fetch_fail" : "Could not fetch the current build id. Make sure the cosmetic server is running before starting the client.",
+
+    "information" : "Information",
+    "warning" : "Warning",
+    "ready" : "Ready"
+}

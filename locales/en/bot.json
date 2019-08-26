@@ -1,0 +1,6 @@
+{
+    "status" : "Invite me",
+    "msg_notingroup" : "Please join my current group.",
+    "msg_skinchanged" : "Successfully changed my skin to {{skin}}.",
+    "msg_emotechanged" : "Successfully changed my emote to {{emote}}."
+}

@@ -1,0 +1,6 @@
+{
+    "status" : "Lad mich ein",
+    "msg_notingroup" : "Bitte tritt meiner aktuellen Gruppe bei.",
+    "msg_skinchanged" : "Du hast meinen Skin zu {{skin}} gewechselt.",
+    "msg_emotechanged" : "Du hast mein Emote zu {{emote}} gewechselt."
+}
