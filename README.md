@@ -17,8 +17,8 @@ If you want to host the server, follow the guide at [the servers repository](htt
 > It's very simple to install the bot, you don't even need to install Node.js or anything.
 
 1. Go to the [releases](https://github.com/Terax235/fnbot-client/releases/latest) page and download the latest release.
-2. Extract the zip.
-3. Fill out `config.example.json` in the bot folder (the folder is called something like `FNBot-vX.X`).
+2. Extract the zip to a new folder.
+3. Fill out `config.example.json` in the bot folder.
    - Enter your bots account data
    - Enter the cosmetic server url
    - Enter the language you'd like the bot to display (currently only english (en) and german (de) are supported)
