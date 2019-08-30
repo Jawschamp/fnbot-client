@@ -4,7 +4,7 @@
         "password": "<Enter bot password here>",
         "token_2fa": null
     },
-    "server_url_base": "<Enter cosmetic server base url here>",
+    "server_url_base": "<http://benbotfn.tk:8080/api/cosmetics>",
     "preferred_language": "en",
     "server_version": "v1.0"
 }
