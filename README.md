@@ -37,6 +37,7 @@ If you want to host the server, follow the guide at [the servers repository](htt
 7. Done. Now you can join the bots lobby and set its cosmetics. For a list of available commands, see [Commands](#Commands)
 
 ## Commands
+> This commands can be used if you direct message the bot. They won't work in party chat!
 - `skin <name/ID>` - Sets the bots skin. `value` can be either the ID or the name of the skin you'd like to display
 - `emote <name/ID>` - Sets the bots emote. `value` can be either the ID or the name of the emote you'd like to display
 
