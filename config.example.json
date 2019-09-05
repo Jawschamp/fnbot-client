@@ -1,7 +1,7 @@
 {
     "bot_account": {
         "email": "<Enter bot email here>",
-        "password": "<Enter bot password here>",
+        "password": "<>",
         "token_2fa": null
     },
     "server_url_base": "<http://benbotfn.tk:8080/api/cosmetics>",
